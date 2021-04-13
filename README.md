@@ -1,8 +1,14 @@
 # A Simple Spelling & Grammar Checker using Python
 
 ## To view the video
-* [Click here](https://youtu.be/mbV7gIsFOi0)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=mbV7gIsFOi0" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/mbV7gIsFOi0?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![A Simple Spelling & Grammar Checker using Python](http://img.youtube.com/vi/mbV7gIsFOi0/0.jpg)](http://www.youtube.com/watch?v=mbV7gIsFOi0)
 
